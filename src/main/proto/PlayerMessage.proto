@@ -1,0 +1,10 @@
+package dougrowena.games.dragonBreeder.protobuf;
+
+import "DragonMessage.proto";
+
+message Player {
+
+    required string name = 1;
+    repeated Dragon dragon = 2;
+
+}
