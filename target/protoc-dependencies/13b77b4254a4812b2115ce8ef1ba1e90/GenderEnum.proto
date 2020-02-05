@@ -1,6 +1,0 @@
-package dougrowena.games.dragonBreeder.protobuf;
-
-enum Gender {
-    MALE = 0;
-    FEMALE = 1;
-}

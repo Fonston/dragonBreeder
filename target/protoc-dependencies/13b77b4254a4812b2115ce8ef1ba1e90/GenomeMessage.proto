@@ -1,6 +1,0 @@
-package dougrowena.games.dragonBreeder.protobuf;
-
-message Genome {
-    repeated string geneSequenceA = 1;
-    repeated string geneSequenceB = 2;
-}

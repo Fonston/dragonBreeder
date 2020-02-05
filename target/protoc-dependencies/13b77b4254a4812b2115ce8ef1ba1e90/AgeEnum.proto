@@ -1,7 +1,0 @@
-package dougrowena.games.dragonBreeder.protobuf;
-
-enum Age {
-    HATCHLING = 0;
-    ADOLESCENT = 1;
-    ADULT = 2;
-}

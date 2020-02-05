@@ -1,9 +1,0 @@
-package dougrowena.games.dragonBreeder.protobuf;
-
-import "GenomeMessage.proto";
-
-message DragonGenome {
-
-    required Genome genome = 1;
-
-}
