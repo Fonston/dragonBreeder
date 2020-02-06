@@ -17,7 +17,7 @@ public class Gender {
             return false;
         }
 
-        if (gender1 != MALE && gender2 != FEMALE) {
+        if (gender1 != MALE && gender1 != FEMALE) {
             return false;
         }
 
