@@ -47,9 +47,9 @@ public class Genome {
                     System.out.println("" + null);
                 }
             }
-            assert (false) : 100;
+
         } else if (!doesGeneSequenceMatchSequence(sequence, geneSequenceB) ) {
-            assert (false) : 101;
+
         }
 
         this.sequence = sequence;

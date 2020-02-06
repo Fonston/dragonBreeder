@@ -9,18 +9,18 @@ public class ImgsTest {
     @Test
     public void avgColourSinglePixel() {
 
-        byte[] red = new byte[] {-128};
+        byte[] red = new byte[] {-1};
         byte[] green = new byte[] {0};
         byte[] blue = new byte[] {0};
-        byte[] alpha = new byte[] {0};
+        byte[] alpha = new byte[] {-1};
 
         int[] avgColour = Imgs.getAverageRGBAFromSeparateChannels(
                 red, green,blue,alpha);
 
-        assertEquals (128, avgColour[Imgs.RED_INDEX]);
+        assertEquals (255, avgColour[Imgs.RED_INDEX]);
         assertEquals (0, avgColour[Imgs.GREEN_INDEX]);
         assertEquals (0, avgColour[Imgs.BLUE_INDEX]);
-        assertEquals (0, avgColour[Imgs.ALPHA_INDEX]);
+        assertEquals (255, avgColour[Imgs.ALPHA_INDEX]);
 
     }
 
@@ -49,9 +49,9 @@ public class ImgsTest {
         };
         // just zero
         byte[] alpha = new byte[] {
-                0,0,0,
-                0,0,0,
-                0,0,0
+                -1,-1,-1,
+                -1,-1,-1,
+                -1,-1,-1
         };
 
         int[] avgColour = Imgs.getAverageRGBAFromSeparateChannels(
@@ -60,7 +60,7 @@ public class ImgsTest {
         assertEquals (128, avgColour[Imgs.RED_INDEX]);
         assertEquals (1, avgColour[Imgs.GREEN_INDEX]);
         assertEquals (212, avgColour[Imgs.BLUE_INDEX]);
-        assertEquals (0, avgColour[Imgs.ALPHA_INDEX]);
+        assertEquals (255, avgColour[Imgs.ALPHA_INDEX]);
 
     }
 

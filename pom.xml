@@ -51,11 +51,11 @@
             <artifactId>protobuf-java</artifactId>
             <version>3.0.0</version>
         </dependency>
-        <dependency>
+        <!--dependency>
             <groupId>dougrowena.games</groupId>
             <artifactId>dragonBreeder</artifactId>
             <version>1.0-SNAPSHOT</version>
-        </dependency>
+        </dependency-->
 
     </dependencies>
 

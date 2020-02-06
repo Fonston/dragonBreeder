@@ -5,7 +5,15 @@
     <bookmark url="file://$PROJECT_DIR$/src/test/java/dougrowena/games/dragonBreeder/genetics/genomegenerators/KomodyteGeneratorTest.java" line="12" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="574305ba-e3b6-4184-8eed-4c174b905a99" name="Default" comment="" />
+    <list default="true" id="574305ba-e3b6-4184-8eed-4c174b905a99" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dragonBreeder-1.0-DEMO.jar" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dragonBreeder.iml" afterPath="$PROJECT_DIR$/dragonBreeder.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/Genome.java" afterPath="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/Genome.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/dougrowena/games/dragonBreeder/basicui/ImgsTest.java" afterPath="$PROJECT_DIR$/src/test/java/dougrowena/games/dragonBreeder/basicui/ImgsTest.java" />
+    </list>
     <ignored path="dragonBreeder.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -42,39 +50,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Dragon.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/dragon/Dragon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2074">
-              <caret line="145" column="29" lean-forward="false" selection-start-line="145" selection-start-column="29" selection-end-line="145" selection-end-column="29" />
-              <folding>
-                <element signature="e#4435#4436#0" expanded="true" />
-                <element signature="e#4481#4482#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DragonGenomeStats.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/dragon/DragonGenomeStats.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1241">
-              <caret line="86" column="16" lean-forward="false" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Locus.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/Locus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LociSequence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/LociSequence.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +80,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Imgs.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Imgs.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/basicui/Imgs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2805">
-              <caret line="176" column="9" lean-forward="false" selection-start-line="176" selection-start-column="9" selection-end-line="176" selection-end-column="9" />
+            <state relative-caret-position="327">
+              <caret line="573" column="50" lean-forward="false" selection-start-line="573" selection-start-column="50" selection-end-line="573" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseColourPhenotype.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/phenotype/BaseColourPhenotype.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="54" column="40" lean-forward="false" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -118,18 +105,48 @@
       <file leaf-file-name="PredictedCharacteristicsPanel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/basicui/PredictedCharacteristicsPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1615">
+            <state relative-caret-position="1581">
               <caret line="104" column="52" lean-forward="false" selection-start-line="104" selection-start-column="52" selection-end-line="104" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="665">
+              <caret line="43" column="36" lean-forward="false" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DragonTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/dougrowena/games/dragonBreeder/dragon/DragonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Genome.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/Genome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImgsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/dougrowena/games/dragonBreeder/basicui/ImgsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -158,6 +175,9 @@
       <dir>C:\prog\dragonBreeder\src</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -167,7 +187,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/protobuf/GenomeMessage.proto" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/dougrowena/games/dragonBreeder/dragon/DragonGenomeStatsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/dougrowena/games/dragonBreeder/genetics/genetypes/DragonGenomeTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/dougrowena/games/dragonBreeder/genetics/GenomeTest.java" />
@@ -177,7 +196,6 @@
         <option value="$PROJECT_DIR$/src/main/proto/AgeEnum.proto" />
         <option value="$PROJECT_DIR$/src/main/proto/DragonMessage.proto" />
         <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/dragon/DragonGenomeStats.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/Genome.java" />
         <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/genetypes/StaminaGene.java" />
         <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/genetypes/ArmourGene.java" />
         <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/genetypes/BodyPlanGene.java" />
@@ -204,7 +222,6 @@
         <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/basicui/utilityComponents/VMenuItem.java" />
         <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/basicui/utilityComponents/VTextField.java" />
         <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/basicui/utilityComponents/ScriptFontSelecter.java" />
-        <option value="$PROJECT_DIR$/src/test/java/dougrowena/games/dragonBreeder/basicui/ImgsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/genetypes/ColourGene.java" />
         <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/phenotype/ColourPhenotype.java" />
         <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/genetypes/StripeColourGene.java" />
@@ -215,8 +232,11 @@
         <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/dragon/Dragon.java" />
         <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/genetypes/DragonGenome.java" />
         <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/genomegenerators/KomodyteGenerator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/basicui/Imgs.java" />
         <option value="$USER_HOME$/Documents/CV.txt" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/Genome.java" />
+        <option value="$PROJECT_DIR$/src/test/java/dougrowena/games/dragonBreeder/basicui/ImgsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/basicui/Imgs.java" />
       </list>
     </option>
   </component>
@@ -270,6 +290,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -325,13 +348,19 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dragonBreeder" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dragonBreeder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dragonBreeder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dragonBreeder" type="462c0819:PsiDirectoryNode" />
+              <item name="basicui" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,7 +369,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/CV.txt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -374,6 +403,26 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.DragonBreederFrame">
+    <configuration name="All in dragonBreeder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="dragonBreeder" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="DragonBreederFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -418,56 +467,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="GenomeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="dougrowena.games.dragonBreeder.genetics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="dragonBreeder" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="dougrowena.games.dragonBreeder.genetics" />
-      <option name="MAIN_CLASS_NAME" value="dougrowena.games.dragonBreeder.genetics.GenomeTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="GenomeTest.protobufConversionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="dougrowena.games.dragonBreeder.genetics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="dragonBreeder" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="dougrowena.games.dragonBreeder.genetics" />
-      <option name="MAIN_CLASS_NAME" value="dougrowena.games.dragonBreeder.genetics.GenomeTest" />
-      <option name="METHOD_NAME" value="protobufConversionTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="ImgsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -482,6 +481,31 @@
       <option name="MAIN_CLASS_NAME" value="dougrowena.games.dragonBreeder.basicui.ImgsTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ImgsTest.avgColourSinglePixel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="dougrowena.games.dragonBreeder.basicui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="dragonBreeder" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="dougrowena.games.dragonBreeder.basicui" />
+      <option name="MAIN_CLASS_NAME" value="dougrowena.games.dragonBreeder.basicui.ImgsTest" />
+      <option name="METHOD_NAME" value="avgColourSinglePixel" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -734,18 +758,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.DragonBreederFrame" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.GenomeTest.protobufConversionTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.GenomeTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.DragonTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ImgsTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.DragonTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ImgsTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.All in dragonBreeder" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ImgsTest.avgColourSinglePixel" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.DragonBreederFrame" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ImgsTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.DragonTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.GenomeTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.GenomeTest.protobufConversionTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.All in dragonBreeder" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ImgsTest.avgColourSinglePixel" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ImgsTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.DragonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -769,54 +793,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ImgsTest - 2017.10.10 at 22h 11m 26s.xml">
-      <configuration name="ImgsTest" configurationId="JUnit" />
+    <history-entry file="All_in_dragonBreeder - 2020.02.06 at 11h 34m 32s.xml">
+      <configuration name="All in dragonBreeder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ImgsTest - 2017.10.10 at 22h 12m 20s.xml">
-      <configuration name="ImgsTest" configurationId="JUnit" />
+    <history-entry file="All_in_dragonBreeder - 2020.02.06 at 11h 36m 18s.xml">
+      <configuration name="All in dragonBreeder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ImgsTest - 2017.10.10 at 23h 03m 32s.xml">
-      <configuration name="ImgsTest" configurationId="JUnit" />
+    <history-entry file="All_in_dragonBreeder - 2020.02.06 at 11h 37m 39s.xml">
+      <configuration name="All in dragonBreeder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ImgsTest - 2017.10.10 at 23h 05m 31s.xml">
-      <configuration name="ImgsTest" configurationId="JUnit" />
+    <history-entry file="All_in_dragonBreeder - 2020.02.06 at 11h 38m 11s.xml">
+      <configuration name="All in dragonBreeder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ImgsTest - 2017.10.10 at 23h 06m 47s.xml">
-      <configuration name="ImgsTest" configurationId="JUnit" />
+    <history-entry file="All_in_dragonBreeder - 2020.02.06 at 11h 38m 42s.xml">
+      <configuration name="All in dragonBreeder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ImgsTest - 2017.10.12 at 20h 53m 39s.xml">
-      <configuration name="ImgsTest" configurationId="JUnit" />
+    <history-entry file="All_in_dragonBreeder - 2020.02.06 at 11h 39m 15s.xml">
+      <configuration name="All in dragonBreeder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ImgsTest - 2017.10.12 at 20h 55m 45s.xml">
-      <configuration name="ImgsTest" configurationId="JUnit" />
+    <history-entry file="All_in_dragonBreeder - 2020.02.06 at 11h 39m 37s.xml">
+      <configuration name="All in dragonBreeder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ImgsTest - 2017.10.12 at 20h 58m 01s.xml">
-      <configuration name="ImgsTest" configurationId="JUnit" />
+    <history-entry file="ImgsTest_avgColourSinglePixel - 2020.02.06 at 11h 28m 10s.xml">
+      <configuration name="ImgsTest.avgColourSinglePixel" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ImgsTest - 2017.10.12 at 21h 46m 05s.xml">
-      <configuration name="ImgsTest" configurationId="JUnit" />
+    <history-entry file="ImgsTest_avgColourSinglePixel - 2020.02.06 at 11h 28m 50s.xml">
+      <configuration name="ImgsTest.avgColourSinglePixel" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="dougrowena_games_dragonBreeder_in_dragonBreeder - 2016.11.29 at 21h 14m 23s.xml">
-      <configuration name="dougrowena.games.dragonBreeder in dragonBreeder" configurationId="JUnit" />
+    <history-entry file="ImgsTest_avgColourSinglePixel - 2020.02.06 at 11h 31m 50s.xml">
+      <configuration name="ImgsTest.avgColourSinglePixel" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1363" height="738" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32232705" sideWeight="0.49707174" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2562893" sideWeight="0.51734316" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2562893" sideWeight="0.48265684" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26415095" sideWeight="0.48265684" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24723247" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23427673" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21845019" sideWeight="0.48414376" order="8" side_tool="false" content_ui="tabs" x="1000" y="91" width="334" height="604" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -827,10 +852,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32436708" sideWeight="0.49707174" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21845019" sideWeight="0.51585627" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23427673" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -855,13 +878,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/genetypes/FeathersGene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/genetypes/WingsGene.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -963,13 +979,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/dougrowena/games/dragonBreeder/basicui/ImgsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/basicui/DragonBreederFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2142">
@@ -1059,13 +1068,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/phenotype/BaseColourPhenotype.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/phenotype/StripeColourPhenotype.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1084,13 +1086,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4624">
           <caret line="280" column="78" lean-forward="false" selection-start-line="280" selection-start-column="78" selection-end-line="280" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/Genome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3230">
-          <caret line="197" column="16" lean-forward="false" selection-start-line="197" selection-start-column="16" selection-end-line="197" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1145,17 +1140,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/basicui/Imgs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2805">
-          <caret line="176" column="9" lean-forward="false" selection-start-line="176" selection-start-column="9" selection-end-line="176" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/basicui/PredictedCharacteristicsPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
+        <state relative-caret-position="1581">
           <caret line="104" column="52" lean-forward="false" selection-start-line="104" selection-start-column="52" selection-end-line="104" selection-end-column="52" />
           <folding />
         </state>
@@ -1168,11 +1155,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/dougrowena/games/dragonBreeder/dragon/DragonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/Genome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="665">
+          <caret line="43" column="36" lean-forward="false" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/genetics/phenotype/BaseColourPhenotype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="54" column="40" lean-forward="false" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/dougrowena/games/dragonBreeder/basicui/ImgsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dougrowena/games/dragonBreeder/basicui/Imgs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="573" column="50" lean-forward="false" selection-start-line="573" selection-start-column="50" selection-end-line="573" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
